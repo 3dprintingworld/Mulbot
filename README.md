@@ -1,3 +1,5 @@
+![Mulbot](Images/MULBOT-BANNER.png)
+
 The Mulbot is a open source mostly printed printer.
 
 You can find more information at:
